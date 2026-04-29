@@ -6,8 +6,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcos-perez-a61935406/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:marcosgrancanaria2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marcos-perez-a61935406/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:marcosgrancanaria2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
@@ -16,9 +20,9 @@
 
 Me especializo en construir sistemas donde los datos no solo se analizan, sino que se integran en aplicaciones robustas. Mi día a día se divide en:
 
-- 🏗️ **Software Engineering**: Aplicando Patrones de Diseño y Arquitectura Limpia en Java.
-- 🧪 **Data Science**: Explorando modelos predictivos y flujos de MLOps con Python.
-- 🌐 **Integración**: Consumo de APIs REST y diseño de backends eficientes.
+* 🏗️ **Software Engineering**: Aplicando Patrones de Diseño y Arquitectura Limpia en Java.
+* 🧪 **Data Science**: Explorando modelos predictivos y análisis de datos con Python y R.
+* 🌐 **Integración**: Gestión de mensajes con ActiveMQ y consumo de APIs REST.
 
 > **Proyecto destacado actual:** Desarrollando una plataforma de gestión de viajes inteligente (Java) que sincroniza datos aéreos en tiempo real con eventos culturales vía API.
 
@@ -29,8 +33,8 @@ Me especializo en construir sistemas donde los datos no solo se analizan, sino q
 | Área | Tecnologías |
 | :--- | :--- |
 | **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
-| **Ingeniería & Backend** | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **ML & Data Science** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Ingeniería & Backend** | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) ![ActiveMQ](https://img.shields.io/badge/ActiveMQ-FFA500?style=flat-square&logo=apache-activemq&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) |
+| **ML & Data Science** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black) |
 | **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VSC](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ---
@@ -52,7 +56,7 @@ Me especializo en construir sistemas donde los datos no solo se analizan, sino q
 
 ```mermaid
 graph LR
-    A[Fundamentos de IA] --> B(MLOps)
-    C[POO Avanzada] --> D(Arquitecturas Limpias)
-    B --> E{Data Engineer}
+    A[Análisis con NumPy/Pandas] --> B(ML Predictivo)
+    C[Java / Maven] --> D(Arquitecturas Distribuidas)
+    B --> E{Data & Software Engineer}
     D --> E
