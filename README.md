@@ -1,6 +1,6 @@
 ## Hola, soy Marcos Pérez 👋
 
-**Estudiante de Ciencia e Ingeniería de Datos · 2do año**
+**Estudiante de Ciencia e Ingeniería de Datos · 2º año**
 
 Me muevo entre dos mundos: el análisis de datos con ML y el desarrollo de software orientado a objetos. Busco proyectos donde la ingeniería y los datos se cruzan.
 
@@ -9,9 +9,10 @@ Me muevo entre dos mundos: el análisis de datos con ML y el desarrollo de softw
 ### Sobre mí
 
 - 🏢 &nbsp;Colaborando en un proyecto dentro de una organización GitHub
-- 📚 &nbsp;Aprendiendo patrones de diseño y MLOps
+- 📚 &nbsp;Aprendiendo patrones de diseño, arquitectura limpia y MLOps
 - 🎯 &nbsp;Objetivo: Data Scientist o Software Engineer
-- 📫 &nbsp;[LinkedIn](https://www.linkedin.com/in/marcos-perez-a61935406/) · [Email](marcosgrancanaria2004@gmail.com)
+- 🚀 &nbsp;Interés en backend, datos e integración de APIs
+- 📫 &nbsp;[LinkedIn](https://www.linkedin.com/in/marcos-perez-a61935406/) · [Email](mailto:marcosgrancanaria2004@gmail.com)
 
 ---
 
@@ -28,8 +29,8 @@ Me muevo entre dos mundos: el análisis de datos con ML y el desarrollo de softw
 
 ![POO](https://img.shields.io/badge/POO-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-5C2D91?style=flat&logo=abstract&logoColor=white)
-![UML](https://img.shields.io/badge/UML-0078D7?style=flat&logo=diagrams.net&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-5C2D91?style=flat)
+![UML](https://img.shields.io/badge/UML-0078D7?style=flat)
 
 **Machine Learning / IA**
 
@@ -49,17 +50,29 @@ Me muevo entre dos mundos: el análisis de datos con ML y el desarrollo de softw
 
 ### 🏢 &nbsp;Contribuciones activas
 
-Actualmente desarrollando en equipo dentro de una organización GitHub, aplicando principios de **ingeniería del software**, POO y buenas prácticas de código limpio con Java e IntelliJ.
+Actualmente desarrollando en equipo dentro de una organización GitHub, aplicando principios de **ingeniería del software**, POO y buenas prácticas con Java.
 
-<!-- Cuando la org sea pública, puedes añadir: -->
-<!-- [![Org](https://img.shields.io/badge/Organización-NOMBRE-181717?style=flat&logo=github)](https://github.com/NOMBRE_ORG) -->
+🚧 Proyecto reciente: aplicación Java que combina datos de vuelos (LPA, MAD, BCN) y eventos mediante API de Ticketmaster para generar paquetes personalizados.
 
 ---
 
-### 📊 &nbsp;Estadísticas
+### 📊 Estadísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kolocorleone&show_icons=true&hide_border=true&title_color=185FA5&icon_color=185FA5" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kolocorleone&layout=compact&hide_border=true&title_color=185FA5" height="150"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kolocorleone&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kolocorleone&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kolocorleone&theme=github_dark" />
+</p>
+
+---
+
+### 📌 &nbsp;Enfoque actual
+
+```text
+Backend con Java · APIs REST · Datos · Machine Learning · Trabajo en equipo
