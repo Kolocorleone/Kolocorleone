@@ -11,7 +11,7 @@ Me muevo entre dos mundos: el análisis de datos con ML y el desarrollo de softw
 - 🏢 &nbsp;Colaborando en un proyecto dentro de una organización GitHub
 - 📚 &nbsp;Aprendiendo patrones de diseño y MLOps
 - 🎯 &nbsp;Objetivo: Data Scientist o Software Engineer
-- 📫 &nbsp;[LinkedIn](https://linkedin.com/in/TU_USUARIO) · [Email](mailto:TU_EMAIL)
+- 📫 &nbsp;[LinkedIn](https://www.linkedin.com/in/marcos-perez-a61935406/) · [Email](marcosgrancanaria2004@gmail.com)
 
 ---
 
