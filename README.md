@@ -1,4 +1,4 @@
-# ## <p align="center">Hola, soy Marcos Pérez 👋</p>
+# <p align="center">Hola, soy Marcos Pérez 👋</p>
 
 <p align="center">
   <strong>Estudiante de Ciencia e Ingeniería de Datos (2º año)</strong><br>
