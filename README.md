@@ -1,6 +1,6 @@
 ## Hola, soy Marcos Pérez 👋
 
-**Estudiante de Ciencia e Ingeniería de Datos · 3er año**
+**Estudiante de Ciencia e Ingeniería de Datos · 2do año**
 
 Me muevo entre dos mundos: el análisis de datos con ML y el desarrollo de software orientado a objetos. Busco proyectos donde la ingeniería y los datos se cruzan.
 
